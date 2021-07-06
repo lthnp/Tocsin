@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>208016981149-f9ibsgi5sh5hip4u7dka9oie6ghq4u0c.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.208016981149-f9ibsgi5sh5hip4u7dka9oie6ghq4u0c</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>208016981149-ikmp0bs4llp19qe6rasvs4t6e5h7bpsh.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBlQCF2qkhrNoRs-CgdkCWK9GB3Xnru-7I</string>
+	<key>GCM_SENDER_ID</key>
+	<string>208016981149</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.tocsin</string>
+	<key>PROJECT_ID</key>
+	<string>tocsin-ae060</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tocsin-ae060.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:208016981149:ios:4421861d604471351d2874</string>
+	<key>DATABASE_URL</key>
+	<string>https://tocsin-ae060.firebaseio.com</string>
+</dict>
+</plist>

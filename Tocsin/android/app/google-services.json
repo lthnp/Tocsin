@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "208016981149",
+    "firebase_url": "https://tocsin-ae060.firebaseio.com",
+    "project_id": "tocsin-ae060",
+    "storage_bucket": "tocsin-ae060.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208016981149:android:13750fb48195bf211d2874",
+        "android_client_info": {
+          "package_name": "com.example.Tocsin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "208016981149-ikmp0bs4llp19qe6rasvs4t6e5h7bpsh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.Tocsin",
+            "certificate_hash": "f33e935d399607307ef1213643f9adc11c0ae279"
+          }
+        },
+        {
+          "client_id": "208016981149-7qflqo72q30r1d7f72anag297v2a2pf5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTSoV2QeRqXBLZlL9S44oHRQJuzADzLW8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "208016981149-7qflqo72q30r1d7f72anag297v2a2pf5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

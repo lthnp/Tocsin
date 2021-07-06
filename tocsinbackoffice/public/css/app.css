@@ -1,0 +1,353 @@
+*{font-family: 'Mitr', sans-serif;}
+* .logo-font{font-family: 'Happy Monkey', cursive;}
+* .text-font{font-family: 'K2D', sans-serif;}
+* .btn{
+    border-radius: 100px !important;
+    padding-left: 25px !important;
+    padding-right: 25px !important;
+}
+* .btn-rounded{
+    width: 40px;
+    height: 40px;
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+* .btn-red{
+    background: #FF3547 !important;
+    color: white !important;
+}
+* .btn-outline-red{
+    border: solid 1px #FF3547 !important;
+    background: none !important;
+    color: #FF3547 !important;
+}
+* .text-red{color: #FF3547 !important;}
+* .bg-red{background: #FF3547 !important;}
+* .border-red{border: solid 1px #FF3547 !important;}
+
+* .rounded-nm{border-radius: 18px !important;}
+* .rounded-50{border-radius: 100px !important;}
+* .object-cover{object-fit: cover !important;}
+* .preview-img{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    object-position: center;
+}
+* .preview-img-2{
+    width: 300px;
+    height: 400px;
+    object-fit: cover;
+    object-position: center;
+}
+* .img-list{
+    width: 45px;
+    height: 45px;
+    object-fit: cover;
+    object-position: center;
+}
+* .pos-bottom-right{
+    right: 35px;
+    bottom: 20px;
+}
+* .pos-br{
+    right: 13px !important;
+    bottom: 7px !important;
+}
+* .pos-bottom-left{
+    left: 15px !important;
+    bottom: 10px !important;
+}
+* .col-w-5{width: 5%; padding: 0 12px;}
+* .col-w-10{width: 10%; padding: 0 12px;}
+* .col-w-15{width: 15%; padding: 0 12px;}
+* .col-w-20{width: 20%; padding: 0 12px;}
+* .col-w-25{width: 25%; padding: 0 12px;}
+* .col-w-30{width: 30%; padding: 0 12px;}
+* .col-w-35{width: 35%; padding: 0 12px;}
+* .col-w-40{width: 40%; padding: 0 12px;}
+* .col-w-45{width: 45%; padding: 0 12px;}
+* .col-w-50{width: 50%; padding: 0 12px;}
+* .col-w-55{width: 55%; padding: 0 12px;}
+* .col-w-60{width: 60%; padding: 0 12px;}
+* .col-w-65{width: 65%; padding: 0 12px;}
+* .col-w-70{width: 70%; padding: 0 12px;}
+* .col-w-75{width: 75%; padding: 0 12px;}
+* .col-w-80{width: 80%; padding: 0 12px;}
+* .col-w-85{width: 85%; padding: 0 12px;}
+* .col-w-90{width: 90%; padding: 0 12px;}
+* .col-w-95{width: 95%; padding: 0 12px;}
+* .col-w-100{width: 100%; padding: 0 12px;}
+
+#addbook{
+    width: 60px;
+    height: 60px;
+    font-size: 24px;
+    padding: 10px !important;
+    position: fixed;
+    right: 50px;
+    bottom: 50px;
+}
+body{background: #F5F3EE !important;}
+
+textarea{resize: none !important;}
+textarea::-webkit-scrollbar {
+    width: 18px !important;
+    background-color: rgba(0,0,0,0);
+}
+textarea::-webkit-scrollbar-thumb {
+    background-color: rgba(0,0,0,0);
+}
+
+.custom-file-label::after {
+    border-radius: 100px !important;
+    background: #FF3547 !important;
+    color: white !important;
+}
+
+/* The side navigation menu */
+.sidenav {
+    height: 100%; /* 100% Full-height */
+    width: 0; /* 0 width - change this with JavaScript */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Stay on top */
+    top: 0; /* Stay at the top */
+    left: 0;
+    background-color: white; /* #292F40*/
+    overflow-x: hidden; /* Disable horizontal scroll */
+    padding-top: 60px; /* Place content 60px from the top */
+    transition: 0.5s; /* 0.5 second transition effect to slide in the sidenav */
+}
+
+/* The navigation menu links */
+.sidenav label {
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    font-size: 18px;
+    color: #292F40;
+    display: block;
+    transition: 0.3s;
+}
+.sidenav a {
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    font-size: 18px;
+    color: #292F40;
+    display: block;
+    transition: 0.3s;
+}
+
+/* When you mouse over the navigation links, change their color */
+.sidenav a:hover {
+    /*color: #FF3547;*/
+    text-decoration: none;
+}
+
+/* Position and style the close button (top right corner) */
+.sidenav .closebtn {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 36px;
+    margin-left: 50px;
+}
+
+/* Style page content - use this if you want to push the page content to the right when you open the side navigation */
+#main {
+    transition: margin-left .5s;
+    padding: 20px;
+}
+
+/* On smaller screens, where height is less than 450px, change the style of the sidenav (less padding and a smaller font size) */
+@media screen and (max-height: 450px) {
+    .sidenav {padding-top: 15px;}
+    .sidenav a {font-size: 18px;}
+}
+
+* .filter-active {
+    border: solid 1px #FF3547;
+    border-radius: 50px;
+    padding: 2px 10px;
+    color: #FF3547 !important;
+}
+
+* .filter {
+    color: #999;
+}
+* .filter:hover {
+    color: black;
+}
+* .sort-active {
+    color: black;
+}
+
+
+*
+{
+    user-select: none;
+    -webkit-tap-highlight-color:transparent;
+}
+
+*:focus
+{
+    outline: none;
+}
+
+body
+{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    background-color: #f1f9f9;
+}
+
+#app-cover
+{
+    display: table;
+    width: 600px;
+    margin: 80px auto;
+    counter-reset: button-counter;
+}
+
+.row
+{
+    display: table-row;
+}
+
+.toggle-button-cover
+{
+    display: table-cell;
+    position: relative;
+    width: 200px;
+    height: 140px;
+    box-sizing: border-box;
+}
+
+.button-cover
+{
+    height: 100px;
+    margin: 20px;
+    background-color: #fff;
+    box-shadow: 0 10px 20px -8px #c5d6d6;
+    border-radius: 4px;
+}
+
+.button-cover:before
+{
+    counter-increment: button-counter;
+    content: counter(button-counter);
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    color: #d7e3e3;
+    font-size: 12px;
+    line-height: 1;
+    padding: 5px;
+}
+
+.button-cover, .knobs, .layer
+{
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
+
+.button
+{
+    position: relative;
+    top: 50%;
+    width: 74px;
+    height: 36px;
+    margin: -20px auto 0 auto;
+    overflow: hidden;
+}
+
+.button.r, .button.r .layer
+{
+    border-radius: 100px;
+}
+
+.button.b2
+{
+    border-radius: 2px;
+}
+
+.checkbox
+{
+    position: relative;
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    margin: 0;
+    opacity: 0;
+    cursor: pointer;
+    z-index: 3;
+}
+
+.knobs
+{
+    z-index: 2;
+}
+
+.layer
+{
+    width: 100%;
+    background-color: #ebf7fc;
+    transition: 0.3s ease all;
+    z-index: 1;
+}
+
+/* Button 1 */
+#button-1 .knobs:before
+{
+    content: 'YES';
+    position: absolute;
+    top: 4px;
+    left: 4px;
+    width: 20px;
+    height: 10px;
+    color: #fff;
+    font-size: 10px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1;
+    padding: 9px 4px;
+    background-color: #03A9F4;
+    border-radius: 50%;
+    transition: 0.3s cubic-bezier(0.18, 0.89, 0.35, 1.15) all;
+}
+
+#button-1 .checkbox:checked + .knobs:before
+{
+    content: 'NO';
+    left: 42px;
+    background-color: #f44336;
+}
+
+#button-1 .checkbox:checked ~ .layer
+{
+    background-color: #fcebeb;
+}
+
+#button-1 .knobs, #button-1 .knobs:before, #button-1 .layer
+{
+    transition: 0.3s ease all;
+}
+
+
+
+#ytd-url {
+    display: block;
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    padding: 10px 14px;
+    margin: 20px;
+    color: #fff;
+    font-size: 14px;
+    text-decoration: none;
+    background-color: #143240;
+    border-radius: 4px;
+    box-shadow: 0 10px 20px -5px rgba(20, 50, 64, 0.76);
+}

@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "F:\\AndroidStudio\\Tocsin\\build\\android_intent\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-pa\\values-pa.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ELLE\\.gradle\\caches\\transforms-2\\files-2.1\\5a6791fdc56f6e67ffad79a9c88f48bf\\core-1.1.0\\res\\values-pa\\values-pa.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "F:\\AndroidStudio\\Tocsin\\build\\android_intent\\intermediates\\res\\merged\\release\\values-pa\\values-pa.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ELLE\\.gradle\\caches\\transforms-2\\files-2.1\\5a6791fdc56f6e67ffad79a9c88f48bf\\core-1.1.0\\res\\values-pa\\values-pa.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

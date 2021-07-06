@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f7788dd8-5e62-43e0-9059-fc3034b9272b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/android/app/release/app-release.apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/release/output-metadata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/Component/style_crime_panel.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/DBConnection.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tocsin.jks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/android/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Component/style_button.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Component/style_button.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Component/style_text.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Component/style_text.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Component/style_user_contact.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Component/style_user_contact.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Controller/EmergencyController.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Controller/EmergencyController.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Controller/LocationController.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Controller/LocationController.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Controller/UserLocationController.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Controller/UserLocationController.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/crime.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/crime.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/sos.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/sos.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/location_service.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/location_service.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/user_address.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/user_address.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/user_address_add.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/user_address_add.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/user_address_add_default.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/user_address_add_default.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/user_address_edit.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/user_address_edit.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/user_emergency.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/user_emergency.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="pixel_2_nougat_7_1_api_25" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="valueResourceFile" />
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1hyVmmOirMe9NpJKdsozlgf1e2k" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/icons" />
+    <property name="project.structure.last.edited" value="SDK Location" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.12706481" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\AndroidStudio\Tocsin\assets\icons" />
+      <recent name="F:\AndroidStudio\Tocsin\assets\svg" />
+      <recent name="F:\AndroidStudio\Tocsin\lib" />
+      <recent name="F:\AndroidStudio\Tocsin\assets\fonts" />
+      <recent name="F:\AndroidStudio\Tocsin\fonts" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\AndroidStudio\Tocsin\lib" />
+      <recent name="F:\AndroidStudio\Tocsin\lib\Models" />
+      <recent name="F:\AndroidStudio\Tocsin\bin" />
+      <recent name="F:\AndroidStudio\Tocsin\lib\Screen" />
+      <recent name="F:\AndroidStudio\Tocsin\android\app" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Flutter.main.dart">
+    <configuration name="F:/AndroidStudio/Tocsin/android/app/build.gradle" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/android/app/build.gradle" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="F:/AndroidStudio/Tocsin/android/build.gradle" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/android/build.gradle" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.F:/AndroidStudio/Tocsin/android/build.gradle" />
+        <item itemvalue="Gradle.F:/AndroidStudio/Tocsin/android/app/build.gradle" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f7788dd8-5e62-43e0-9059-fc3034b9272b" name="Default Changelist" comment="" />
+      <created>1600983479498</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600983479498</updated>
+    </task>
+    <task id="LOCAL-00001" summary="-v0.1">
+      <created>1602889430598</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602889430598</updated>
+    </task>
+    <task id="LOCAL-00002" summary="-v0.2">
+      <created>1607159987443</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1607159987443</updated>
+    </task>
+    <task id="LOCAL-00003" summary="-v0.3">
+      <created>1608328147858</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1608328147859</updated>
+    </task>
+    <task id="LOCAL-00004" summary="-v0.5">
+      <created>1612579133658</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1612579133658</updated>
+    </task>
+    <task id="LOCAL-00005" summary="-v0.6">
+      <created>1614065455105</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1614065455105</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="-v0.1" />
+    <MESSAGE value="-v0.2" />
+    <MESSAGE value="-v0.3" />
+    <MESSAGE value="-v0.5" />
+    <MESSAGE value="-v0.6" />
+    <option name="LAST_COMMIT_MESSAGE" value="-v0.6" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="477" y="257" key="#PSD" timestamp="1622195839547">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="477" y="257" key="#PSD/0.0.1920.1050@0.0.1920.1050" timestamp="1622195839547" />
+    <state x="699" y="368" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1621888206627">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="699" y="368" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1621888206627" />
+    <state x="740" y="280" key="FileChooserDialogImpl" timestamp="1622190705137">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="740" y="280" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1622190705137" />
+    <state width="938" height="240" key="GridCell.Tab.0.bottom" timestamp="1622396169055">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="938" height="240" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1622396169055" />
+    <state width="938" height="240" key="GridCell.Tab.0.center" timestamp="1622396169054">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="938" height="240" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1622396169054" />
+    <state width="938" height="240" key="GridCell.Tab.0.left" timestamp="1622396169053">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="938" height="240" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1622396169053" />
+    <state width="938" height="240" key="GridCell.Tab.0.right" timestamp="1622396169055">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="938" height="240" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1622396169055" />
+    <state x="-294" y="360" width="1333" height="849" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1621569065846">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="-294" y="360" width="1333" height="849" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1621569065846" />
+    <state x="769" y="442" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1625599435370">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="769" y="442" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1050@0.0.1920.1050" timestamp="1625599435370" />
+    <state x="616" y="177" width="672" height="676" key="search.everywhere.popup" timestamp="1621569676800">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="616" y="177" width="672" height="676" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1621569676800" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://C:/flutter/packages/flutter/lib/src/material/colors.dart</url>
+          <line>204</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/android/settings.gradle</url>
+          <line>13</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

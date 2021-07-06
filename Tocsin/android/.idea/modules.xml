@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android.iml" filepath="$PROJECT_DIR$/.idea/modules/android.iml" group="android" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/948426364/android_intent.iml" filepath="$PROJECT_DIR$/.idea/modules/948426364/android_intent.iml" group="android/android_intent" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="android/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-397384346/firebase_auth.iml" filepath="$PROJECT_DIR$/.idea/modules/-397384346/firebase_auth.iml" group="android/firebase_auth" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/85457877/firebase_core.iml" filepath="$PROJECT_DIR$/.idea/modules/85457877/firebase_core.iml" group="android/firebase_core" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-273962524/flutter_plugin_android_lifecycle.iml" filepath="$PROJECT_DIR$/.idea/modules/-273962524/flutter_plugin_android_lifecycle.iml" group="android/flutter_plugin_android_lifecycle" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1814208048/geolocator.iml" filepath="$PROJECT_DIR$/.idea/modules/1814208048/geolocator.iml" group="android/geolocator" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-398459584/google_api_availability.iml" filepath="$PROJECT_DIR$/.idea/modules/-398459584/google_api_availability.iml" group="android/google_api_availability" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-232996514/google_api_headers.iml" filepath="$PROJECT_DIR$/.idea/modules/-232996514/google_api_headers.iml" group="android/google_api_headers" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1767038676/google_map_location_picker.iml" filepath="$PROJECT_DIR$/.idea/modules/1767038676/google_map_location_picker.iml" group="android/google_map_location_picker" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1010556445/google_maps_flutter.iml" filepath="$PROJECT_DIR$/.idea/modules/1010556445/google_maps_flutter.iml" group="android/google_maps_flutter" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1678737382/google_sign_in.iml" filepath="$PROJECT_DIR$/.idea/modules/1678737382/google_sign_in.iml" group="android/google_sign_in" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1504140710/location.iml" filepath="$PROJECT_DIR$/.idea/modules/-1504140710/location.iml" group="android/location" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1045423805/location_permissions.iml" filepath="$PROJECT_DIR$/.idea/modules/1045423805/location_permissions.iml" group="android/location_permissions" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1083083345/package_info.iml" filepath="$PROJECT_DIR$/.idea/modules/1083083345/package_info.iml" group="android/package_info" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/801488401/url_launcher.iml" filepath="$PROJECT_DIR$/.idea/modules/801488401/url_launcher.iml" group="android/url_launcher" />
+    </modules>
+  </component>
+</project>

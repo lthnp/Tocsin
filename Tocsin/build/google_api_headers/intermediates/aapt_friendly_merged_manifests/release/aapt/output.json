@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "applicationId": "io.github.zeshuaro.google_api_headers",
+  "variantType": "LIBRARY",
+  "elements": [
+    {
+      "outputType": {
+        "type": "AAPT_FRIENDLY_MERGED_MANIFESTS"
+      },
+      "apkData": {
+        "type": "MAIN",
+        "splits": [],
+        "versionCode": -1,
+        "outputFile": "google_api_headers-release.aar",
+        "fullName": "release",
+        "baseName": "release",
+        "dirName": ""
+      },
+      "path": "AndroidManifest.xml",
+      "properties": {
+        "packageId": "io.github.zeshuaro.google_api_headers",
+        "split": ""
+      }
+    }
+  ]
+}
